@@ -19,9 +19,9 @@
                 <a href="#about_us">О компании</a>
             </nav>
             <h1>
-                <title>
+             
                 <i>Fantastic Party</i> 
-                </title>
+              
             </h1>
             <img src="https://mars.algoritmika.org/uploads/2020/12/fireworks-2731725_1920_0_1607673819.jpg" width="850px"/>
             <h2 id="price">Наши фейерверки</h2>
